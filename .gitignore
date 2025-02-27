@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 *storybook.log
+# Storybook 빌드 폴더 (배포용)
+storybook-static/
