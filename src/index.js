@@ -1,1 +1,1 @@
-export * from "./components";
+export { default as Skeleton } from './components/Skeleton';
